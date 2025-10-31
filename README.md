@@ -16,7 +16,7 @@ Interested in software development and practical problem solving.
 
 **Rehabilitation Glove for Trigger Finger**  
 A prototype glove designed to support finger rehabilitation.  
-The glove uses motors controlled by an Arduino board programmed in C to assist movement.
+The glove uses motors controlled by an Arduino board programmed in C++ to assist movement.
 
 *Role:* Motor control programming & logic implementation
 
