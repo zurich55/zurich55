@@ -1,4 +1,4 @@
-# Ratchanon Keeratikriengkrai
+# Ratchanon Keeratikriangkrai
 
 ICT Student at Mahidol University  
 Interested in software development and practical problem solving.
