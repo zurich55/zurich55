@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @zurich55
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Ratchanon Keeratikriengkrai
 
-<!---
-zurich55/zurich55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ICT Student at Mahidol University  
+Interested in software development and practical problem solving.
+
+---
+
+### Skills
+- C Programming
+- HTML / CSS
+- Basic Arduino / Microcontroller Programming
+
+---
+
+### Projects
+
+**Rehabilitation Glove for Trigger Finger**  
+A prototype glove designed to support finger rehabilitation.  
+The glove uses motors controlled by an Arduino board programmed in C to assist movement.
+
+*Role:* Motor control programming & logic implementation
+
+---
+
+### GitHub
+This GitHub will gradually include more of my learning projects  
+as I continue developing my coding skills each day.
